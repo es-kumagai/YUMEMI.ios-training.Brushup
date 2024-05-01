@@ -5,6 +5,6 @@
       location = "group:ExampleProxy/ExampleProxy.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:ios_training">
+      location = "group:ios-training">
    </FileRef>
 </Workspace>
