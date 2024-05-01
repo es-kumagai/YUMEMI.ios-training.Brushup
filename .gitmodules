@@ -1,0 +1,6 @@
+[submodule "ExampleProxy"]
+	path = ExampleProxy
+	url = git@github.com:es-kumagai/YUMEMI.ios-training.Brushup.ExampleProxy.git
+[submodule "ios-training"]
+	path = ios-training
+	url = https://github.com/es-kumagai/YUMEMI.ios-training.Brushup.MainTarget
